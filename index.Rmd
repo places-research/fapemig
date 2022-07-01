@@ -163,19 +163,19 @@ knitr::include_graphics("img/imagem9.png")
 
 ---
 
-```{r, echo=FALSE, out.width="60%"}
+```{r, echo=FALSE, out.width="40%"}
 knitr::include_graphics("img/imagem10.png")
 ```  
 
 ---
 
-```{r, echo=FALSE, out.width="60%"}
+```{r, echo=FALSE, out.width="40%"}
 knitr::include_graphics("img/imagem11.png")
 ```  
 
 ---
 
-```{r, echo=FALSE, out.width="60%"}
+```{r, echo=FALSE, out.width="40%"}
 knitr::include_graphics("img/imagem12.png")
 ```  
 
