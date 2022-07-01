@@ -114,7 +114,7 @@ knitr::include_graphics("img/Imagem1.png")
 
 ---
 
-```{r, echo=FALSE, out.width="90%"}
+```{r, echo=FALSE, out.width="80%"}
 knitr::include_graphics("img/Imagem2.png")
 ```  
 
